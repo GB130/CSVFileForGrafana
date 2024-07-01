@@ -1,0 +1,65 @@
+CycleName,Release_Version,Execution Date,Total,Pass,Fail,WIP,Blocked,Unexecuted
+Desktop,WW Enterprise 3.24.5.0,05/08/2024,386,375,0,0,0,11
+Device,WW Enterprise 3.24.5.0,05/08/2024,386,380,0,0,0,6
+Functional,WW Enterprise 3.24.5.0,05/08/2024,25,25,0,0,0,0
+Stage,WW Enterprise 3.24.5.0,05/13/2024,36,32,2,0,0,2
+TMWR_Personalization_Tue_21 May 2024_06:56,v9_2.8,05/20/2024,12,11,1,0,0,0
+MW-Replatform-mobile-regression-ios_Thu_16 May 2024_01:10,v9_2.8,05/15/2024,138,75,63,0,0,0
+MW-Replatform-GUI-regression-chrome_Thu_16 May 2024_03:11,v9_2.8,05/16/2024,322,217,105,0,0,0
+MW-Replatform-mobile-regression-ios_Thu_09 May 2024_04:24,v9_2.8,05/09/2024,138,80,58,0,0,0
+CMC_Preview_Regression_Thu_16 May 2024_23:29,v9_2.8,05/16/2024,22,15,7,0,0,0
+CMC_Preview_Regression_Fri_17 May 2024_00:08,v9_2.8,05/17/2024,22,12,10,0,0,0
+MW-Replatform-GUI-regression-chrome_Fri_17 May 2024_02:37,v9_2.8,05/17/2024,323,90,233,0,0,0
+CMC_Preview_Regression_Fri_17 May 2024_03:20,v9_2.8,05/17/2024,22,15,7,0,0,0
+MW-Replatform-GUI-regression-edge_Fri_17 May 2024_10:37,v9_2.8,05/17/2024,323,224,99,0,0,0
+MW-Replatform-GUI-regression-chrome_Mon_20 May 2024_03:05,v9_2.8,05/20/2024,323,156,167,0,0,0
+MW-Replatform-GUI-regression-chrome_Mon_20 May 2024_13:25,v9_2.8,05/20/2024,14,6,8,0,0,0
+CMC_Preview_Regression_Mon_20 May 2024_23:32,v9_2.8,05/20/2024,22,15,7,0,0,0
+TMWR_Personalization_Tue_21 May 2024_06:39,v9_2.8,05/20/2024,12,11,1,0,0,0
+MW-Replatform-GUI-regression-chrome_Thu_16 May 2024_10:39,v9_2.8,05/16/2024,176,131,45,0,0,0
+CMC_Preview_Regression_Tue_21 May 2024_00:16,v9_2.8,05/21/2024,22,13,9,0,0,0
+TMWR_Personalization_Tue_21 May 2024_07:22,v9_2.8,05/21/2024,12,11,1,0,0,0
+MW-Replatform-GUI-regression-chrome_Tue_21 May 2024_03:59,v9_2.8,05/21/2024,278,190,88,0,0,0
+MW-Replatform-GUI-regression-chrome_Tue_21 May 2024_03:33,v9_2.8,05/21/2024,118,0,118,0,0,0
+MW-Replatform-GUI-regression-chrome_Tue_21 May 2024_06:58,v9_2.8,05/21/2024,14,10,4,0,0,0
+CMC_Preview_Regression_Wed_22 May 2024_01:00,v9_2.8,05/21/2024,22,2,20,0,0,0
+CMC_Preview_Regression_Wed_22 May 2024_01:15,v9_2.8,05/21/2024,22,2,20,0,0,0
+CMC_Preview_Regression_Wed_22 May 2024_02:48,v9_2.8,05/22/2024,22,15,7,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_22 May 2024_04:49,v9_2.8,05/22/2024,14,10,4,0,0,0
+MW-Replatform-mobile-regression-ios_Thu_16 May 2024_00:27,v9_2.8,05/15/2024,322,178,144,0,0,0
+MW-Replatform-GUI-regression-chrome_Fri_10 May 2024_05:12,v9_2.8,05/10/2024,172,112,60,0,0,0
+MW-Replatform-GUI-regression-chrome_Mon_13 May 2024_01:23,v9_2.8,05/13/2024,172,112,60,0,0,0
+MW-Replatform-GUI-regression-chrome_Mon_13 May 2024_02:25,v9_2.8,05/13/2024,138,88,50,0,0,0
+MW-Replatform-mobile-regression-ios_Mon_13 May 2024_20:16,v9_2.8,05/13/2024,34,28,6,0,0,0
+MW-Replatform-mobile-regression-ios_Mon_13 May 2024_23:10,v9_2.8,05/13/2024,139,77,62,0,0,0
+MW-Replatform-mobile-regression-ios_Tue_14 May 2024_01:42,v9_2.8,05/13/2024,174,104,70,0,0,0
+MW-Replatform-mobile-regression-ios_Thu_09 May 2024_09:42,v9_2.8,05/09/2024,172,102,70,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_15 May 2024_03:04,v9_2.8,05/15/2024,139,96,43,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_15 May 2024_03:52,v9_2.8,05/15/2024,139,97,42,0,0,0
+MW-Replatform-mobile-regression-ios_Thu_09 May 2024_06:19,v9_2.8,05/09/2024,172,75,97,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_15 May 2024_07:12,v9_2.8,05/15/2024,174,124,50,0,0,0
+CMC_Preview_Regression_Wed_15 May 2024_22:26,v9_2.8,05/15/2024,22,15,7,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_15 May 2024_21:46,v9_2.8,05/15/2024,139,92,47,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_15 May 2024_20:28,v9_2.8,05/15/2024,174,120,54,0,0,0
+CMC_Preview_Regression_Wed_15 May 2024_21:47,v9_2.8,05/15/2024,22,15,7,0,0,0
+MW-Replatform-GUI-regression-chrome_Wed_15 May 2024_20:56,v9_2.8,05/15/2024,110,81,29,0,0,0
+Moores_Ecomm_UI_chrome_Fri_17 May 2024_01:47,v9_2.8,05/16/2024,105,67,38,0,0,0
+Moores_Ecomm_UI_ios_Thu_16 May 2024_04:47,v9_2.8,05/15/2024,105,37,68,0,0,0
+Moores_Ecomm_UI_chrome_Tue_21 May 2024_03:41,v9_2.8,05/21/2024,107,58,49,0,0,0
+Moores_Ecomm_UI_chrome_Thu_16 May 2024_18:04,v9_2.8,05/16/2024,105,54,51,0,0,0
+Moores_Ecomm_UI_ios_Sun_19 May 2024_20:17,v9_2.8,05/19/2024,56,11,45,0,0,0
+Moores_Ecomm_API_Thu_09 May 2024_14:06,v9_2.8,05/09/2024,84,45,39,0,0,0
+Moores_Ecomm_API_Thu_16 May 2024_14:20,v9_2.8,05/16/2024,84,29,55,0,0,0
+Moores_Android_Regression_Thu_16 May 2024_04:54,v9_2.8,05/15/2024,97,38,59,0,0,0
+MW-Replatform-API-regression_Thu_09 May 2024_14:00,v9_2.8,05/09/2024,30,17,13,0,0,0
+MW-Replatform-API-regression_Thu_09 May 2024_13:53,v9_2.8,05/09/2024,30,6,24,0,0,0
+MW-Replatform-API-regression_Thu_16 May 2024_08:59,v9_2.8,05/16/2024,30,6,24,0,0,0
+CCPO_Sprint_8,v9_2.8,05/17/2024,280,252,15,0,0,13
+PSC_Sprint8,v9_2.8,05/14/2024,50,48,2,0,0,0
+APL_Sprint8_Functional,v9_2.8,05/14/2024,41,40,1,0,0,0
+PD_Sprint8,v9_2.8,05/15/2024,114,101,1,0,0,0
+APL_Sprint8_Regression,v9_2.8,05/15/2024,29,28,1,0,0,0
+APL_Sprint8_Stage,v9_2.8,05/21/2024,14,14,0,0,0,0
+PSC_Stage,v9_2.8,05/21/2024,19,19,0,0,0,0
+Stage,v9_2.8,05/21/2024,22,22,0,0,0,0
+PD_Stage_Sprint8,v9_2.8,05/21/2024,36,15,0,0,0,0
